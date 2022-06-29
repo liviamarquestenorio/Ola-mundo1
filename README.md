@@ -1,4 +1,2 @@
 # Olá, mundo!
- Primeiro repositório feito no Git e no Github
-
-Essa linha foi adicionada no site!
+ Primeiro repositório feito no **Git e Github** durante o curso transmitido no *Youtube*! 
